@@ -1,6 +1,6 @@
 void setup(){
 
-// Aca va el código que quiero que se ejecute una sola vez.
+// Aca va el código que quiero que se ejecute una sola vez. oa  
 }
 
 void loop(){
